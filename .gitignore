@@ -1,0 +1,18 @@
+# Node.js
+application/node_modules/
+application/dist/
+application/dist-ssr/
+application/.env.local
+application/.env.*.local
+
+# .NET build artifacts
+application-service/**/bin/
+application-service/**/obj/
+
+# OS/IDE
+.DS_Store
+.vscode/
+.idea/
+*.suo
+*.user
+Thumbs.db

@@ -1,0 +1,23 @@
+## Build output
+bin/
+obj/
+out/
+
+## .NET user secrets & local settings
+*.user
+appsettings.Local.json
+
+## OS/IDE files
+.DS_Store
+.vs/
+.vscode/
+*.suo
+*.user
+.idea/
+
+## Migrations (optional - remove if you want to track them)
+# */Migrations/
+
+## NuGet
+*.nupkg
+packages/
